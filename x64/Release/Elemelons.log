@@ -1,0 +1,29 @@
+﻿  App.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPropertySet.h(69,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(180,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(189,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(198,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(207,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(213,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(226,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxObjectGroup.h(68,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxTile.h(81,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolygon.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolyline.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.h(32,27): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+     Creating library C:\Users\KtoChcesz\source\repos\Game\x64\Release\Elemelons.lib and object C:\Users\KtoChcesz\source\repos\Game\x64\Release\Elemelons.exp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\KtoChcesz\source\repos\Game\Engine\AnimatedSprite.cpp(122): warning C4715: 'Engine::AnimatedSprite::playAnimation': not all control paths return a value
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.cpp(41): warning C4715: 'Dialogue::getDisplayTime': not all control paths return a value
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Skeleton.cpp(323): warning C4715: 'Skeleton::canJump': not all control paths return a value
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.cpp(49): warning C4715: 'Dialogue::wasAudioPlayed': not all control paths return a value
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.cpp(33): warning C4715: 'Dialogue::getLine': not all control paths return a value
+C:\Users\KtoChcesz\source\repos\Game\Engine\Renderer2D.cpp(364): warning C4715: 'Engine::Renderer2D::GetCurrentBatch': not all control paths return a value
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\NPC.h(153): warning C4715: 'NPC::getDialogue': not all control paths return a value
+C:\Users\KtoChcesz\source\repos\Game\Engine\AudioEngine.cpp(75): warning C4715: 'Engine::AudioEngine::LoadSound': not all control paths return a value
+  All 8439 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Elemelons.vcxproj -> C:\Users\KtoChcesz\source\repos\Game\x64\Release\Elemelons.exe

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialoguelist>
+    <part name="default">
+        <dialogue>
+            <line value="dialog 1" />
+            <time value="2.0" />
+            <audio value="assets/audio/dialogues/test.mp3" />
+        </dialogue>
+        <dialogue>
+            <line value="dialog 2" />
+            <time value="2.0" />
+            <audio value="assets/audio/dialogues/test.mp3" />
+        </dialogue>
+        <dialogue>
+            <line value="dialog 3" />
+            <time value="4.0" />
+            <audio value="assets/audio/dialogues/test.mp3" />
+        </dialogue>
+        <dialogue>
+            <line value="dialog 4" />
+            <time value="1.0" />
+            <audio value="assets/audio/dialogues/niewiem.mp3" />
+        </dialogue>
+        <dialogue>
+            <line value="dialog 5" />
+            <time value="1.5" />
+            <audio value="assets/audio/dialogues/jezyki.mp3" />
+        </dialogue>
+    </part>
+    <part name="removing_gate">
+        <dialogue>
+            <line value="dialog 6" />
+            <time value="2.5" />
+            <audio value="assets/audio/dialogues/test.mp3" />
+        </dialogue>
+        <dialogue>
+            <line value="dialog 7" />
+            <time value="1.5" />
+            <audio value="assets/audio/dialogues/jezyki.mp3" />
+        </dialogue>
+    </part>
+    <part name="removed_gate">
+        <dialogue>
+            <line value="dialog 8" />
+            <time value="3.5" />
+            <audio value="assets/audio/dialogues/test.mp3" />
+        </dialogue>
+        <dialogue>
+            <line value="dialog 9" />
+            <time value="1.5" />
+            <audio value="assets/audio/dialogues/jezyki.mp3" />
+        </dialogue>
+    </part>
+    <part name="explosives_given">
+        <dialogue>
+            <line value="dialog 10" />
+            <time value="3.5" />
+            <audio value="assets/audio/dialogues/test.mp3" />
+        </dialogue>
+    </part>
+    <part name="enough_explosives">
+        <dialogue>
+            <line value="dialog 11" />
+            <time value="1.5" />
+            <audio value="assets/audio/dialogues/dosc.mp3" />
+        </dialogue>
+    </part>
+</dialoguelist>

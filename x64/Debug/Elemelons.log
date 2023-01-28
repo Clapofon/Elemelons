@@ -1,0 +1,188 @@
+﻿  App.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPropertySet.h(69,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(180,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(189,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(198,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(207,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(213,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(226,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxObjectGroup.h(68,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxTile.h(81,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolygon.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolyline.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.h(32,27): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Bonfire.cpp
+  Brek.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.h(32,27): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+  Chest.cpp
+  Crate.cpp
+  Enemy.cpp
+  GameplayScene.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPropertySet.h(69,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(180,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(189,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(198,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(207,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(213,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(226,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxObjectGroup.h(68,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxTile.h(81,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolygon.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolyline.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.h(32,27): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\GameplayScene.cpp(664,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\GameplayScene.cpp(665,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\GameplayScene.cpp(666,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\GameplayScene.cpp(880,26): warning C4244: 'initializing': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\GameplayScene.cpp(881,27): warning C4244: 'initializing': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\GameplayScene.cpp(928,28): warning C4305: '+=': truncation from 'double' to 'float'
+  MainMenuScene.cpp
+  Map.cpp
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPropertySet.h(69,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(180,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(189,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(198,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(207,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(213,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(226,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxObjectGroup.h(68,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxTile.h(81,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolygon.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolyline.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.h(32,27): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(93,90): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(106,80): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(128,82): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(139,60): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(171,87): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(179,88): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(208,95): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(230,86): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(245,90): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(252,91): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(260,100): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(273,100): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(295,96): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(321,83): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(336,92): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(345,92): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(361,92): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(379,82): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(401,99): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(420,95): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(521,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(796,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(797,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(800,65): warning C4244: 'argument': conversion from 'float' to 'int16_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(835,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(836,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(839,61): warning C4244: 'argument': conversion from 'float' to 'int16_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(873,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(874,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(877,75): warning C4244: 'argument': conversion from 'float' to 'uint16_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(878,75): warning C4244: 'argument': conversion from 'float' to 'uint16_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(1262,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(1263,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(1264,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Map.cpp(1265,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.cpp(83,42): warning C4244: '+=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.cpp(99,30): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.cpp(100,31): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.cpp(174,66): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.cpp(250,68): warning C4244: '-=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.cpp(354,66): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.cpp(393,69): warning C4244: '-=': conversion from 'double' to 'int32_t', possible loss of data
+  Projectile.cpp
+  Rope.cpp
+  SaveManager.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\SaveManager.cpp(408,52): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\SaveManager.cpp(879,84): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\SaveManager.cpp(880,84): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\SaveManager.cpp(885,85): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\SaveManager.cpp(886,85): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Skeleton.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Skeleton.cpp(229,62): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Skeleton.cpp(340,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SkeletonBoss.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+  Spider.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Spider.cpp(201,62): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+  Spikes.cpp
+  World.cpp
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPropertySet.h(69,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(180,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(189,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(198,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(207,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(213,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(226,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxObjectGroup.h(68,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxTile.h(81,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolygon.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolyline.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.h(32,27): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\World.cpp(44,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(114,46): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Player.h(115,47): warning C4244: 'return': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPropertySet.h(69,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(180,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(189,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(198,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(207,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(213,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxMap.h(226,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxObjectGroup.h(68,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxTile.h(81,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolygon.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Engine\TmxPolyline.h(57,38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Dialogue.h(32,27): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\Skeleton.cpp(323): warning C4715: 'Skeleton::canJump': not all control paths return a value
+C:\Users\KtoChcesz\source\repos\Game\Elemelons\NPC.h(153): warning C4715: 'NPC::getDialogue': not all control paths return a value
+     Creating library C:\Users\KtoChcesz\source\repos\Game\x64\Debug\Elemelons.lib and object C:\Users\KtoChcesz\source\repos\Game\x64\Debug\Elemelons.exp
+  Elemelons.vcxproj -> C:\Users\KtoChcesz\source\repos\Game\x64\Debug\Elemelons.exe

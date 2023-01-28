@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <target value="window">
+        <name value="Elemelons" />
+        <dimentions width="1600" height="900" />
+        <color r="179" g="193" b="255" a="255" />
+    </target>
+
+    <!--<target value="player">
+        <movement left="Key_A" right="Key_D" jump="Key_SPACE, Key_W" crouch="Key_S"/>
+        <name value="JanPawel2"/>
+    </target>-->
+</config>

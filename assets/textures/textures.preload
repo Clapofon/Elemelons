@@ -1,0 +1,37 @@
+assets/textures/rocks1.png true
+assets/textures/rocks2.png true
+assets/textures/tree1.png true
+assets/textures/bush_5.png true
+assets/textures/enemies/skeleton/atlases/skeletonWalk.png
+assets/textures/enemies/skeleton/atlases/skeletonAttack.png
+assets/textures/enemies/skeleton/atlases/skeletonDeath.png
+assets/textures/enemies/skeleton/atlases/skeletonIdle.png
+assets/textures/atlases/niebieski_chop.png true
+assets/textures/atlases/watermelonAtlas.png true
+assets/textures/atlases/watermelonDead.png true
+assets/textures/atlases/handAtlas.png false
+assets/textures/atlases/bonfire_atlas.png false
+assets/textures/atlases/chest_opening.png false
+assets/textures/atlases/chest_opened_full.png false
+assets/textures/crate_512x512.png true
+assets/textures/spikes.png false
+assets/textures/sign_movement_tutorial.png true
+assets/textures/sign_crates_tutorial.png true
+assets/textures/sign_immovable_objects_tutorial.png true
+assets/textures/sign_bonfires_tutorial.png true
+assets/textures/sky.png true
+assets/textures/cloud.png true
+assets/textures/ui/health_bar_background.png true
+assets/textures/ui/health_bar.png true
+assets/textures/ui/health_bar_outline_enemy.png true
+assets/textures/dynamite.png true
+assets/textures/ui/label_background_2.png true
+assets/textures/ui/health_bar_outline.png true
+assets/textures/ui/stamina_bar.png true
+assets/textures/ui/stamina_bar_outline.png true
+assets/textures/enemies/skeleton/atlases/skeletonAttack.png false
+assets/textures/enemies/skeleton/atlases/skeletonIdle.png false
+assets/textures/ui/bonfire_first_starting_area_thumbnail.png false
+assets/textures/ui/bonfire_second_starting_area_thumbnail.png false
+assets/textures/ui/bonfire_third_starting_area_thumbnail.png false
+assets/textures/ui/bonfire_first_second_area_thumbnail.png false
